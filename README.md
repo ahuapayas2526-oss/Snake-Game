@@ -23,8 +23,8 @@ Simula una aplicació **full-stack**, integrant interfície gràfica, lògica de
 
 
 
-<img width="464" height="510" alt="Pantalla login" src="https://github.com/user-attachments/assets/31ad2f9a-7006-486e-a184-83fc4e90d3e0" />
-<img width="464" height="510" alt="Pantalla joc" src="https://github.com/user-attachments/assets/edc0053f-57e7-4dec-818d-68020705c3ff" />
+<img width="324" height="357" alt="Pantalla login" src="https://github.com/user-attachments/assets/31ad2f9a-7006-486e-a184-83fc4e90d3e0" />
+<img width="324" height="357" alt="Pantalla joc" src="https://github.com/user-attachments/assets/edc0053f-57e7-4dec-818d-68020705c3ff" />
 
 
 
